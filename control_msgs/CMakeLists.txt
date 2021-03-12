@@ -31,6 +31,7 @@ set(msg_files
 
 set(action_files
   action/FollowJointTrajectory.action
+  action/FollowMultiDOFJointTrajectory.action
   action/GripperCommand.action
   action/JointTrajectory.action
   action/PointHead.action
